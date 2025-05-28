@@ -33,13 +33,4 @@
 │   └── bibliography.bib                    # Файл с записями в формате BibTeX
 │
 ├── README.md                               # Описание проекта
-└── requirements.txt                        # Зависимости Python:
-    ├── torch>=1.10
-    ├── transformers>=4.0
-    ├── datasets
-    ├── sacrebleu
-    ├── rouge_score
-    ├── bert_score
-    ├── cohere
-    ├── spacy
-    └── numpy, pandas, matplotlib
+└── requirements.txt                        # Зависимости Python
